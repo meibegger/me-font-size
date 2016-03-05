@@ -1,6 +1,6 @@
 {
   "name": "me-font-size",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This project experienced a major update and has been moved to me-use-rem. Please install using me-use-rem instead.",
   "main": "src/me-font-size.js",
   "repository": {
