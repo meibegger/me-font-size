@@ -1,7 +1,7 @@
 {
   "name": "me-font-size",
   "version": "0.0.1",
-  "description": "A utility script to track font-resize and convert measurement units",
+  "description": "This project experienced a major update and has been moved to me-use-rem. Please install using me-use-rem instead.",
   "main": "src/me-font-size.js",
   "repository": {
     "type": "git",
@@ -30,11 +30,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
+    "gulp-header": "1.7.1",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.2",
     "require-dir": "^0.3.0"
-  },
-  "dependencies": {
-    "gulp-header": "1.7.1"
   }
 }

@@ -1,5 +1,11 @@
 # meFontSize #
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**WARNING: This project experienced a major update and has been moved to [meUseRem](https://github.com/meibegger/me-use-rem). Please install using [meUseRem](https://github.com/meibegger/me-use-rem) instead.**
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 meFontSize is a small utility script to to track font-resize and convert measurement units.
 
 Currently it supports conversion between `rem` and `px`.
